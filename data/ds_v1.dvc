@@ -1,0 +1,6 @@
+outs:
+- md5: 709ceae425181694b8fe02c9e61f4790.dir
+  size: 137712504
+  nfiles: 7823
+  hash: md5
+  path: ds_v1
