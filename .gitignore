@@ -4,4 +4,5 @@ data/
 runs/
 *.zip
 __pycache__/
+ds3
 "@ | Out-File -Encoding utf8 .gitignore
