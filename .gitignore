@@ -1,0 +1,7 @@
+@"
+.venv/
+data/
+runs/
+*.zip
+__pycache__/
+"@ | Out-File -Encoding utf8 .gitignore
