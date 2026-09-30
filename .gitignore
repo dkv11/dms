@@ -1,6 +1,6 @@
 @"
 .venv/
-data/
+
 runs/
 *.zip
 __pycache__/
