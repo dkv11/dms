@@ -1,0 +1,6 @@
+outs:
+- md5: 35ddfdf7160cbece058f980e9e197806.dir
+  size: 137712502
+  nfiles: 7823
+  hash: md5
+  path: dms_v1
